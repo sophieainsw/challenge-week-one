@@ -7,3 +7,5 @@ The image and icon elements all now contain an accesible "alt" attribute.
 During this project I learnt how to add the "alt" elements, how to apply the CSS to sections and how to make the CSS code more concise and easy to follow.
 
 ![Alt text](image.png)
+
+<a href="https://sophieainsw.github.io/challenge-week-one">
